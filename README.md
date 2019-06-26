@@ -1,6 +1,10 @@
+
+[TOC]
+
 # Guideline-for-Computational-Biology-and-Bioinformatics
- 
+
 目的: 在原来的 [GCCS2019](https://github.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/190317-guideline_for_common_computational_skills.pdf) 基础上对组内培养方案更具体的完善，大概会包括如何达到 GCCS2019 中的要求中的basic，advanced skills。
+
 
 
 ## Basic Skills
