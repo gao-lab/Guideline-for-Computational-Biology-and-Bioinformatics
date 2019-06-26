@@ -1,6 +1,6 @@
 # Guideline-for-Computational-Biology-and-Bioinformatics
  
-目的: 在原来的 [GCCS2019](https://github.com/XinmingTu/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/190317-guideline_for_common_computational_skills.pdf) 基础上对组内培养方案更具体的完善，大概会包括如何达到 GCCS2019 中的要求中的basic，advanced skills。
+目的: 在原来的 [GCCS2019](https://github.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/190317-guideline_for_common_computational_skills.pdf) 基础上对组内培养方案更具体的完善，大概会包括如何达到 GCCS2019 中的要求中的basic，advanced skills。
 
 
 ## Basic Skills
@@ -44,7 +44,7 @@ Advanced Math 是在 Basic Math 的基础上的进阶，包括机器学习，统
 
 
 #### Book
-* Pattern recognition and machine learning([PRML](https://github.com/XinmingTu/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/PRML.pdf))
+* Pattern recognition and machine learning([PRML](https://github.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/PRML.pdf))
 
 ### Statistical Learning 
 
@@ -53,7 +53,7 @@ Advanced Math 是在 Basic Math 的基础上的进阶，包括机器学习，统
 * [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/rmcelreath/statrethinking_winter2019)这其中包括 slides, videos, homework(solution)。
 
 #### Book
-* The Element of Statistical Learning 这本书是林伟老师的统计学习的教材 [ESL](https://github.com/XinmingTu/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/ESL.pdf)
+* The Element of Statistical Learning 这本书是林伟老师的统计学习的教材 [ESL](https://github.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/ESL.pdf)
 * [Awesome Bayes](https://github.com/dimenwarper/awesome-bayes) 里面包括非常多的关于贝叶斯的资源
 ### Deep Learning
 
@@ -68,7 +68,7 @@ Advanced Math 是在 Basic Math 的基础上的进阶，包括机器学习，统
 
 #### Book
 
-* [Bayesian Data Analysis](https://github.com/XinmingTu/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/BDA.pdf)
+* [Bayesian Data Analysis](https://github.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/BDA.pdf)
 
 ## Bioinformatics Analyze 
 
