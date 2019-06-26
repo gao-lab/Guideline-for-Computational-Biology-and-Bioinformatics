@@ -50,12 +50,10 @@ Advanced Math 是在 Basic Math 的基础上的进阶，包括机器学习，统
 
 #### Mooc 
 
-* [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github
-.com/rmcelreath/statrethinking_winter2019)这其中包括 slides, videos, homework(solution)。
+* [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/rmcelreath/statrethinking_winter2019)这其中包括 slides, videos, homework(solution)。
 
 #### Book
-* The Element of Statistical Learning 这本书是林伟老师的统计学习的教材 [ESL](https://github
-.com/XinmingTu/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/ESL.pdf)
+* The Element of Statistical Learning 这本书是林伟老师的统计学习的教材 [ESL](https://github.com/XinmingTu/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/ESL.pdf)
 * [Awesome Bayes](https://github.com/dimenwarper/awesome-bayes) 里面包括非常多的关于贝叶斯的资源
 ### Deep Learning
 
@@ -70,7 +68,7 @@ Advanced Math 是在 Basic Math 的基础上的进阶，包括机器学习，统
 
 #### Book
 
-* Bayes[Bayesian Data Analysis](https://github.com/XinmingTu/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/BDA.pdf)
+* [Bayesian Data Analysis](https://github.com/XinmingTu/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/BDA.pdf)
 
 ## Bioinformatics Analyze 
 
