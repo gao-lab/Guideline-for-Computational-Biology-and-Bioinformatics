@@ -4,8 +4,7 @@
 
 
 ## Basic Skills
-Basic Skills should be master before joining in Lab. You should have at least used Linux and python, R. If you want 
-to improve your efficiency, you can learn productive tools, such as Pycharm, Tmux. 
+
 
 ### Linux Foundation
 对于 Linux 需要掌握一些最基础的基本操作，最基础
