@@ -110,7 +110,7 @@ Inference, MC等)！而且中文格外亲切。
 
 
 ### People
-* 屠鑫明 [Xinming Tu](xinmingtu.cn)
+* 屠鑫明 [XinmingTu](xinmingtu.cn)
 * 陈子玉
 * 曹智杰
 * 丁阳
