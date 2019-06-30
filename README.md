@@ -24,7 +24,7 @@ Ps. 对于一开始进组开始 intern 的同学建议全部掌握 Basic skills 
 ### Python
 
 Basic 的 Python ，只需要掌握基本的语法，以及常见的 package 比如 numpy, pandas 的基础用法即可。
-* Basic Python [link](https://www.learnpython.org) 中文版本 [link](http://www.runoob.com/python/python-tutorial.html)
+* [Basic Python](https://www.learnpython.org) 中文版本 [[link]](http://www.runoob.com/python/python-tutorial.html)
 * [Python 100 days](https://github.com/jackfrued/Python-100-Days) 已经是很完整的 Python 的资料了，包括的内容非常多，basic 的话不需要全部掌握。
 
 ### R
@@ -57,14 +57,14 @@ Advanced Math 是在 Basic Math 的基础上的进阶，包括机器学习，统
 
 #### Mooc
 
-* Coursera 上 Andrew Ng 的机器学习，深入浅出相当不错，建议快速刷完。[link](https://www.coursera.org/learn/machine-learning)
+* Coursera 上 Andrew Ng 的机器学习，深入浅出相当不错，建议快速刷完。[machine learning](https://www.coursera.org/learn/machine-learning)
 ，另外国内网易云上，bilibili上都有搬运的资料。
 * [**machine-learning-notes**](https://github.com/roboticcam/machine-learning-notes) 只要是里面有视频的部分讲的都非常清楚(Variational 
 Inference, MC等)！而且中文格外亲切。
 
 
 #### Book
-* Pattern recognition and machine learning([PRML](https://github.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/PRML.pdf))
+* Pattern recognition and machine learning([(PRML)](https://github.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/PRML.pdf))
 
 ### Statistical Learning 
 统计学习和机器学习其实没什么区别吧，所以为什么这是重要的和机器学习一样，但是相比之下可能说统计学习别人会觉得更可信，因为毕竟有"统计"两个字！
@@ -75,8 +75,8 @@ Inference, MC等)！而且中文格外亲切。
 * [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/rmcelreath/statrethinking_winter2019)这其中包括 slides, videos, homework(solution)。
 
 #### Book
-* Introduction to Statistical Learning with R（ISL） 这本比较简单，也有中文翻译版本，也是某种意义上李程老师的基因组数据分析所用的教材。[link](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
-* The Element of Statistical Learning 这本书比 ISL 更难，有更多的数学，而且中文版感觉翻译的不是很好，另外也是林伟老师的统计学习的教材 [ESL](https://github.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/ESL.pdf)
+* [Introduction to Statistical Learning with R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) 这本比较简单，也有中文翻译版本，也是某种意义上李程老师的基因组数据分析所用的教材。
+* [The Element of Statistical Learning](https://github.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/ESL.pdf) 这本书比 ISL 更难，有更多的数学，而且中文版感觉翻译的不是很好，另外也是林伟老师的统计学习的教材.
 
 ### Deep Learning
 
