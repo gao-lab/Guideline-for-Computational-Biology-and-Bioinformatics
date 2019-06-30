@@ -85,7 +85,7 @@ Inference, MC等)！而且中文格外亲切。
 
 * Coursera 上面的 [Deep Learning](https://www.coursera.org/specializations/deep-learning), Andrew Ng 讲的还是非常好的，另外 
 [bilibili](https://www.bilibili.com/video/av49445369?from=search&seid=853459819773787018) 上也有搬运的。另外网易云上应该也有。
-* 李沐的动手学深度学习，[link](https://zh.gluon.ai),没有看过但是应该不错。
+* 李沐的[动手学深度学习](https://zh.gluon.ai),没有看过但是应该不错。
 * [Solution of Deep-Learning-Coursera](https://github.com/DeepakSridhar/Deep-Learning-Coursera)
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) Deep learning 
 中经典的论文
@@ -109,5 +109,10 @@ Inference, MC等)！而且中文格外亲切。
 
 
 
+### People
+* 屠鑫明 [Xinming Tu](xinmingtu.cn)
+* 陈子玉
+* 曹智杰
+* 丁阳
 
 # 完善中......
