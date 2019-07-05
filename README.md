@@ -14,6 +14,9 @@ Ps. 对于一开始进组开始 intern 的同学建议全部掌握 Basic skills 
 
 #### Book & Blog & Tutorial & Repo
 
+[Linux basic](https://githut.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/Linux_Basics_2019.pdf) 和 [linux shortenned](https://githut.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/linux_shortened.pdf) 
+都是基本的 Linux 知识，建议快速的看一遍，然后上手试一试，北大未名有免费的学生账号，可以[申请](http://hpc.pku.edu.cn/guide.html)
+
 ### Productivity Tools
 
 **Pycharm**
@@ -100,6 +103,9 @@ Inference, MC等)！而且中文格外亲切。
 * [Awesome Bayes](https://github.com/dimenwarper/awesome-bayes) 里面包括非常多的关于贝叶斯的资源
 
 
+### Reinforce Learning
+
+
 ## Bioinformatics Analyze 
 
 ### Single Cell Analyze 
@@ -107,11 +113,14 @@ Inference, MC等)！而且中文格外亲切。
 
 ## Some Courses in Peking University
 
+### Computational Biology Courses
 
+* [stanford Computational Biology in Four Dimensions](https://cs371.stanford.edu/index.html) computational biology 
+的一些topic。
 
 ### People
-* 屠鑫明 [XinmingTu](http://www.xinmingtu.cn)
-* 陈子玉
+* 屠鑫明 xinmingtu@pku.edu.cn
+* 陈子玉 
 * 曹智杰
 * 丁阳
 
