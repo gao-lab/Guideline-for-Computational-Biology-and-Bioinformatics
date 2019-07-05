@@ -1,10 +1,12 @@
 
 # Guideline-for-Computational-Biology-and-Bioinformatics
 
+
 **目的**: 在原来的 [GCCS2019](https://githut.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/190317-guideline_for_common_computational_skills.pdf) 基础上对组内培养方案更具体的完善，大概会包括如何达到 GCCS2019 中的要求中的basic，advanced skills。
 
 Ps. 对于一开始进组开始 intern 的同学建议全部掌握 Basic skills 且最好掌握部分 Advanced skills，basic skills 是能开始工作的基础，Advanced skills 是能做出原创性工作的前提。
 
+# 完善中......
 
 ## Basic Skills
 
@@ -124,4 +126,3 @@ Inference, MC等)！而且中文格外亲切。
 * 曹智杰
 * 丁阳
 
-# 完善中......
