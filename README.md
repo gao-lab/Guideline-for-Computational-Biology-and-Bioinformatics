@@ -4,7 +4,7 @@
 		- [ Python](#head4)
 		- [ R](#head5)
 		- [ Writing](#head6)
-	- [Basic Math](#head7)
+		- [Basic Math](#head7)
 	- [Advanced skill](#head8)
 		- [Machine Learning](#head9)
 		- [Statistical Learning ](#head10)
@@ -48,7 +48,7 @@ Markdown 感觉是轻量级 LaTeX，最主要的就是也能支持数学公式�
 LaTeX 基础的话推荐 [Basic latex](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/LaTeX_basic.pdf)
 看完这个，LaTeX 的基本的使用不成问题！如果想要尝试的话可以推荐使用 [Overleaf](https://www.overleaf.com)，上面有很多的 template 可以直接用。
 
-## <span id="head7">Basic Math</span>
+### <span id="head7">Basic Math</span>
 * 高等数学
 * 线性代数
 * 概率论与数理统计
@@ -65,20 +65,19 @@ Advanced skill 是在 Basic skill 的基础上的进阶，包括机器学习，�
 随便搜索一下就能找到很多，下面简单的罗列一下我知道的，或者我看过觉得不错的的资料。
 
 * Mooc
-* Coursera 上 Andrew Ng 的 Machine learning，深入浅出相当不错，建议快速刷完。[machine learning](https://www.coursera.org/learn/machine-learning)
+    * Coursera 上 Andrew Ng 的 Machine learning，深入浅出相当不错，建议快速刷完。[machine learning](https://www.coursera.org/learn/machine-learning)
 ，另外国内网易云上，bilibili上都有搬运的资料。
-* [**machine-learning-notes**](https://github.com/roboticcam/machine-learning-notes) 只要是里面有视频的部分讲的都非常清楚(Variational 
+    * [**machine-learning-notes**](https://github.com/roboticcam/machine-learning-notes) 只要是里面有视频的部分讲的都非常清楚(Variational 
 Inference, MC等)！而且中文格外亲切。
 * Book
-* Pattern recognition and machine learning[(PRML)](https://github.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/PRML.pdf)
+    * Pattern recognition and machine learning[(PRML)](https://github.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/PRML.pdf)
 
 ### <span id="head10">Statistical Learning </span>
 统计学习和机器学习其实没什么区别吧，因为毕竟有"统计"两个字,所以看起来更加令人信服！
 
-* Mooc 
+ 
 * 李航的[统计学习](https://github.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/统计学习方法_李航.pdf)，短小精悍！建议专心读几天，一口气读完。
 * [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/rmcelreath/statrethinking_winter2019)这其中包括 slides, videos, homework(solution)。
-* Book
 * [Introduction to Statistical Learning with R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) 这本比较简单，也有中文翻译版本，也是某种意义上李程老师的基因组数据分析所用的教材。
 * [The Element of Statistical Learning](https://github.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/ESL.pdf) 这本书比 ISL 更难，有更多的数学，而且中文版感觉翻译的不是很好，另外也是林伟老师的统计学习的教材.
 
@@ -96,7 +95,6 @@ Inference, MC等)！而且中文格外亲切。
 ### <span id="head12"> Bayes</span>
 贝叶斯学派和频率学派的本质区别就是认为 parameter 没有确定的值，有的是分布。
 
-* Book
 * [Bayesian Data Analysis](https://github.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/BDA.pdf)
 这本书内容比较多，是席瑞斌老师的贝叶斯的参考书。
 * [Awesome Bayes](https://github.com/dimenwarper/awesome-bayes) 里面包括非常多的关于贝叶斯的资源
@@ -104,21 +102,30 @@ Inference, MC等)！而且中文格外亲切。
 [Think Bayes](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/Think-python.pdf) 
 
 ### <span id="head13">Reinforce Learning</span>
-
+* [Stanford Reinforce Learning](http://web.stanford.edu/class/cs234/index.html)
 
 ## <span id="head14">Bioinformatics Analyze </span>
 
 * Single Cell Analyze 
-* [Single cell RNA-seq course by sanger institute](https://scrnaseq-course.cog.sanger.ac.uk/website/index.html)
+    * [Single cell RNA-seq course by sanger institute](https://scrnaseq-course.cog.sanger.ac.uk/website/index.html)
 
 
 ## <span id="head15">Some Courses </span>
 
 * Computational Biology Courses
-* [MIT Foundations of computational and systems biology](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/)
-* [stanford Computational Biology in Four Dimensions](https://cs371.stanford.edu/index.html) computational biology 的一些topic。
-* Course in Peking university
-* 
+    * [MIT Foundations of computational and systems biology](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/)
+    * [stanford Computational Biology in Four Dimensions](https://cs371.stanford.edu/index.html) Computational 
+biology 的一些topic。
+* Course at Peking University
+    * 基因组生物学技术 
+    * 贝叶斯理论与算法
+    * 深度学习：算法与应用
+    * 生物信息中的数学模型与方法
+    * 基因组学数据分析
+    * 生物数学物理
+    * 统计学习
+    * 生物数学建模
+    * 生物信息学方法
 
 ## <span id="head16">Related links</span>
 * [selection of books/urls for bioinformatics/data science curriculum](https://divingintogeneticsandgenomics.rbind.io/post/my-opinionated-selection-of-books-for-bioinformatics-data-science-curriculum/) Provided by Ming Tang

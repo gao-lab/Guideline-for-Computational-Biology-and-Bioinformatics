@@ -31,7 +31,7 @@ Markdown 感觉是轻量级 LaTeX，最主要的就是也能支持数学公式�
 LaTeX 基础的话推荐 [Basic latex](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/LaTeX_basic.pdf)
 看完这个，LaTeX 的基本的使用不成问题！如果想要尝试的话可以推荐使用 [Overleaf](https://www.overleaf.com)，上面有很多的 template 可以直接用。
 
-## Basic Math
+### Basic Math
 * 高等数学
 * 线性代数
 * 概率论与数理统计
@@ -87,7 +87,7 @@ Inference, MC等)！而且中文格外亲切。
     [Think Bayes](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/Think-python.pdf) 
       
 ### Reinforce Learning
-
+* [Stanford Reinforce Learning](http://web.stanford.edu/class/cs234/index.html)
 
 ## Bioinformatics Analyze 
 
@@ -99,9 +99,18 @@ Inference, MC等)！而且中文格外亲切。
 
 * Computational Biology Courses
     * [MIT Foundations of computational and systems biology](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/)
-    * [stanford Computational Biology in Four Dimensions](https://cs371.stanford.edu/index.html) computational biology 的一些topic。
-* Course in Peking university
-    * 
+    * [stanford Computational Biology in Four Dimensions](https://cs371.stanford.edu/index.html) Computational 
+    biology 的一些topic。
+* Course at Peking University
+    * 基因组生物学技术 
+    * 贝叶斯理论与算法
+    * 深度学习：算法与应用
+    * 生物信息中的数学模型与方法
+    * 基因组学数据分析
+    * 生物数学物理
+    * 统计学习
+    * 生物数学建模
+    * 生物信息学方法
 
 ## Related links
 * [selection of books/urls for bioinformatics/data science curriculum](https://divingintogeneticsandgenomics.rbind.io/post/my-opinionated-selection-of-books-for-bioinformatics-data-science-curriculum/) Provided by Ming Tang
