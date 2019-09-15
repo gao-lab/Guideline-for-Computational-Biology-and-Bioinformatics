@@ -117,6 +117,7 @@ Inference, MC等)！而且中文格外亲切。
     * [stanford Computational Biology in Four Dimensions](https://cs371.stanford.edu/index.html) Computational 
 biology 的一些topic。
 * Courses at Peking University
+    * [李程老师整理的课程列表](http://bioinfocore.cbi.pku.edu.cn/forum/upload/forum.php?mod=viewthread&tid=325&extra=page%3D1)
     * 基因组生物学技术 
     * 贝叶斯理论与算法
     * 深度学习：算法与应用
@@ -126,7 +127,7 @@ biology 的一些topic。
     * 统计学习
     * 生物数学建模
     * 生物信息学方法
-
+    
 ## <span id="head16">Related links</span>
 * [selection of books/urls for bioinformatics/data science curriculum](https://divingintogeneticsandgenomics.rbind.io/post/my-opinionated-selection-of-books-for-bioinformatics-data-science-curriculum/) Provided by Ming Tang
 * [A New Online Computational Biology Curriculum](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003662) 
