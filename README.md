@@ -116,7 +116,7 @@ Inference, MC等)！而且中文格外亲切。
     * [MIT Foundations of computational and systems biology](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/)
     * [stanford Computational Biology in Four Dimensions](https://cs371.stanford.edu/index.html) Computational 
 biology 的一些topic。
-* Course at Peking University
+* Courses at Peking University
     * 基因组生物学技术 
     * 贝叶斯理论与算法
     * 深度学习：算法与应用
