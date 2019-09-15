@@ -50,20 +50,16 @@ Advanced Math 是在 Basic Math 的基础上的进阶，包括机器学习，统
 使用机器学习/统计学习方法挖掘组学数据其实就是生物信息做的事情，所以machine learning某种程度上也是 basic skill! 这部分资料其实非常多，Google 
 随便搜索一下就能找到很多，下面简单的罗列一下我知道的，或者我看过觉得不错的的资料。
 
-#### Mooc
-
-* Coursera 上 Andrew Ng 的 Machine learning，深入浅出相当不错，建议快速刷完。[machine learning](https://www.coursera.org/learn/machine-learning)
+* Mooc
+    * Coursera 上 Andrew Ng 的 Machine learning，深入浅出相当不错，建议快速刷完。[machine learning](https://www.coursera.org/learn/machine-learning)
 ，另外国内网易云上，bilibili上都有搬运的资料。
-* [**machine-learning-notes**](https://github.com/roboticcam/machine-learning-notes) 只要是里面有视频的部分讲的都非常清楚(Variational 
+    * [**machine-learning-notes**](https://github.com/roboticcam/machine-learning-notes) 只要是里面有视频的部分讲的都非常清楚(Variational 
 Inference, MC等)！而且中文格外亲切。
-
-
-#### Book
-* Pattern recognition and machine learning[(PRML)](https://github.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/PRML.pdf)
+* Book
+    * Pattern recognition and machine learning[(PRML)](https://github.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/PRML.pdf)
 
 ### Statistical Learning 
 统计学习和机器学习其实没什么区别吧，因为毕竟有"统计"两个字,所以看起来更加令人信服！
-
 
 * Mooc 
     * 李航的[统计学习](https://github.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/统计学习方法_李航.pdf)，短小精悍！建议专心读几天，一口气读完。
@@ -98,16 +94,17 @@ Inference, MC等)！而且中文格外亲切。
 
 ## Bioinformatics Analyze 
 
-### Single Cell Analyze 
-* [Single cell RNA-seq course by sanger institute](https://scrnaseq-course.cog.sanger.ac.uk/website/index.html)
+* Single Cell Analyze 
+    * [Single cell RNA-seq course by sanger institute](https://scrnaseq-course.cog.sanger.ac.uk/website/index.html)
 
 
 ## Some Courses 
 
-### Computational Biology Courses
-* [MIT Foundations of computational and systems biology](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/)
-* [stanford Computational Biology in Four Dimensions](https://cs371.stanford.edu/index.html) computational biology 的一些topic。
-
+* Computational Biology Courses
+    * [MIT Foundations of computational and systems biology](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/)
+    * [stanford Computational Biology in Four Dimensions](https://cs371.stanford.edu/index.html) computational biology 的一些topic。
+* Course in Peking university
+    * 
 
 ## Related links
 * [selection of books/urls for bioinformatics/data science curriculum](https://divingintogeneticsandgenomics.rbind.io/post/my-opinionated-selection-of-books-for-bioinformatics-data-science-curriculum/) Provided by Ming Tang
