@@ -106,7 +106,7 @@ Inference, MC等)！而且中文格外亲切。
 
 ## <span id="head14">Bioinformatics Analysis </span>
 
-* Single Cell Analyze 
+* Single Cell Analysis
     * [Single cell RNA-seq course by sanger institute](https://scrnaseq-course.cog.sanger.ac.uk/website/index.html)
     * [Scanpy Tutorials](https://scanpy.readthedocs.io/en/stable/tutorials.html)
     * [Seurat - Guided Clustering Tutorial](https://satijalab.org/seurat/v3.1/pbmc3k_tutorial.html)
