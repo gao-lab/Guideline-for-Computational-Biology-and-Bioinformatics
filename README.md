@@ -111,7 +111,7 @@ Inference, MC等)！而且中文格外亲切。
 * [A New Online Computational Biology Curriculum](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003662) 
 
 ### People
-* [屠鑫明](https://www.xinmingtu.cn)
+* [屠鑫明](https://xinmingtu.cn)
 * 陈子玉 
 * 曹智杰
 * 丁阳
