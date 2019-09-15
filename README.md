@@ -35,7 +35,7 @@ Basic 的 Python ，只需要掌握基本的语法，以及常见的 package 比
 ### Writing
 
 #### Markdown/Rmarkdown
-Markdown 感觉是轻量级 LaTeX，最主要的就是也能支持数学公式。
+Markdown 感觉是轻量级 LaTeX，最主要的就是也能支持数学公式。推荐 typora！ 
 
 #### LaTeX
 LaTeX 基础的话推荐 [Basic latex](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/LaTeX_basic.pdf)
@@ -59,15 +59,14 @@ Advanced Math 是在 Basic Math 的基础上的进阶，包括机器学习，统
 
 #### Mooc
 
-* Coursera 上 Andrew Ng 的 Machine learning，深入浅出相当不错，建议快速刷完。[machine learning](https://www.coursera
-.org/learn/machine-learning)
+* Coursera 上 Andrew Ng 的 Machine learning，深入浅出相当不错，建议快速刷完。[machine learning](https://www.coursera.org/learn/machine-learning)
 ，另外国内网易云上，bilibili上都有搬运的资料。
 * [**machine-learning-notes**](https://github.com/roboticcam/machine-learning-notes) 只要是里面有视频的部分讲的都非常清楚(Variational 
 Inference, MC等)！而且中文格外亲切。
 
 
 #### Book
-* Pattern recognition and machine learning([(PRML)](https://github.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/PRML.pdf))
+* Pattern recognition and machine learning[(PRML)](https://github.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/PRML.pdf)
 
 ### Statistical Learning 
 统计学习和机器学习其实没什么区别吧，因为毕竟有"统计"两个字,所以看起来更加令人信服！
