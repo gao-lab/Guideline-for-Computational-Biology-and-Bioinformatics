@@ -11,7 +11,7 @@
 		- [Deep Learning](#head11)
 		- [ Bayes](#head12)
 		- [Reinforce Learning](#head13)
-	- [Bioinformatics Analyze ](#head14)
+	- [Bioinformatics Analysis](#head14)
 	- [Some Courses ](#head15)
 	- [Related links](#head16)
 		- [ People](#head17)
@@ -104,7 +104,7 @@ Inference, MC等)！而且中文格外亲切。
 ### <span id="head13">Reinforce Learning</span>
 * [Stanford Reinforce Learning](http://web.stanford.edu/class/cs234/index.html)
 
-## <span id="head14">Bioinformatics Analyze </span>
+## <span id="head14">Bioinformatics Analysis </span>
 
 * Single Cell Analyze 
     * [Single cell RNA-seq course by sanger institute](https://scrnaseq-course.cog.sanger.ac.uk/website/index.html)
