@@ -11,6 +11,7 @@ Ps. 对于一开始进组开始 intern 的同学建议全部掌握 Basic skills 
 ## Basic Skills
 
 这部分是能够开展工作的基础，至少需要了解的部分。
+  
 ### Linux Foundation
 对于 Linux 需要掌握一些最基础的基本操作，以及关于服务器的一些基本的常识。
 
@@ -20,11 +21,8 @@ Ps. 对于一开始进组开始 intern 的同学建议全部掌握 Basic skills 
 都是基本的 Linux 知识，建议快速的看一遍，然后上手试一试，北大未名有免费的学生账号，可以[申请](http://hpc.pku.edu.cn/guide.html)
 
 ### Productivity Tools
-
 **Pycharm**
-
 **Tmux** 
-
 
 ### Python
 
@@ -48,7 +46,6 @@ LaTeX 基础的话推荐 [Basic latex](https://github.com/Gao-lab/Guideline-for-
 ### Probability Theory and Statistics
 
 ### Stochastic Processes
-
 
 ## Advanced Skills
 Advanced Math 是在 Basic Math 的基础上的进阶，包括机器学习，统计学习，深度学习，贝叶斯理论，概率图模型，同学们按照自己的兴趣挑选学习即可。
@@ -74,20 +71,21 @@ Inference, MC等)！而且中文格外亲切。
 ### Statistical Learning 
 统计学习和机器学习其实没什么区别吧，所以为什么这是重要的和机器学习一样，但是相比之下可能说统计学习别人会觉得更可信，因为毕竟有"统计"两个字！
 
+
 #### Mooc 
 
 * 李航的[统计学习](https://github.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/统计学习方法_李航.pdf)，短小精悍！建议专心读几天，一口气读完。
 * [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/rmcelreath/statrethinking_winter2019)这其中包括 slides, videos, homework(solution)。
 
+
 #### Book
 * [Introduction to Statistical Learning with R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) 这本比较简单，也有中文翻译版本，也是某种意义上李程老师的基因组数据分析所用的教材。
 * [The Element of Statistical Learning](https://github.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/ESL.pdf) 这本书比 ISL 更难，有更多的数学，而且中文版感觉翻译的不是很好，另外也是林伟老师的统计学习的教材.
 
+
 ### Deep Learning
 
 #### Mooc
-
-
 * Coursera 上面的 [Deep Learning](https://www.coursera.org/specializations/deep-learning), Andrew Ng 讲的还是非常好的，另外 
 [bilibili](https://www.bilibili.com/video/av49445369?from=search&seid=853459819773787018) 上也有搬运的。另外网易云上应该也有。
 * 李沐的[动手学深度学习](https://zh.gluon.ai),没有看过但是应该不错。
@@ -113,15 +111,15 @@ Inference, MC等)！而且中文格外亲切。
 ### Single Cell Analyze 
 
 
+
 ## Some Courses in Peking University
 
 ### Computational Biology Courses
-
-* [stanford Computational Biology in Four Dimensions](https://cs371.stanford.edu/index.html) computational biology 
-的一些topic。
+* MIT [Foundations of computational and systems biology](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/)
+* [stanford Computational Biology in Four Dimensions](https://cs371.stanford.edu/index.html) computational biology 的一些topic。
 
 ### People
-* 屠鑫明 xinmingtu@pku.edu.cn
+* [屠鑫明](xinmingtu.cn)
 * 陈子玉 
 * 曹智杰
 * 丁阳
