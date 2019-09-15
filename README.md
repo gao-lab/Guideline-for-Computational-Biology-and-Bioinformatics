@@ -108,8 +108,11 @@ Inference, MC等)！而且中文格外亲切。
 
 * Single Cell Analyze 
     * [Single cell RNA-seq course by sanger institute](https://scrnaseq-course.cog.sanger.ac.uk/website/index.html)
-
-
+    * [Scanpy Tutorials](https://scanpy.readthedocs.io/en/stable/tutorials.html)
+    * [Seurat - Guided Clustering Tutorial](https://satijalab.org/seurat/v3.1/pbmc3k_tutorial.html)
+    * [awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
+* Others
+    * [awesome multi omics](https://github.com/mikelove/awesome-multi-omics)
 ## <span id="head15">Some Courses </span>
 
 * Computational Biology Courses
