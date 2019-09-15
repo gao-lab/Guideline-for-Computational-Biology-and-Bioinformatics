@@ -1,7 +1,4 @@
-# 完善中......
-
 # Guideline-for-Computational-Biology-and-Bioinformatics
-
 
 **目的**: 在原来的 [GCCS2019](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/190317-guideline_for_common_computational_skills.pdf) 基础上对组内培养方案更具体的完善，大概会包括如何达到 GCCS2019 中的要求中的basic，advanced skills。
 
@@ -28,24 +25,23 @@ Basic 的 Python ，只需要掌握基本的语法，以及常见的 package 比
 ### Writing
 
 * Markdown/Rmarkdown
-Markdown 感觉是轻量级 LaTeX，最主要的就是也能支持数学公式。推荐 typora！来写 Markdown 
+Markdown 感觉是轻量级 LaTeX，最主要的就是也能支持数学公式。推荐 typora！来写 Markdown。
 * LaTeX
 LaTeX 基础的话推荐 [Basic latex](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/LaTeX_basic.pdf)
 看完这个，LaTeX 的基本的使用不成问题！如果想要尝试的话可以推荐使用 [Overleaf](https://www.overleaf.com)，上面有很多的 template 可以直接用。
 
-## Math
+## Basic Math
 * 高等数学
 * 线性代数
 * 概率论与数理统计
 
 
 
-## Advanced Skills
-Advanced Math 是在 Basic Math 的基础上的进阶，包括机器学习，统计学习，深度学习，贝叶斯理论，概率图模型，同学们按照自己的兴趣挑选学习即可。
+## Advanced skill
+Advanced skill 是在 Basic skill 的基础上的进阶，包括机器学习，统计学习，深度学习，贝叶斯理论，概率图模型，同学们按照自己的兴趣挑选学习即可。
 
 *ps. 如何做出有价值的，其他人没想到的工作呢 1.你比人家聪明，2.你比人家知道的多。相比第一条，第二条是更容易实现的*
 
-这边的分类可能存在点问题(待修改)
 ### Machine Learning
 使用机器学习/统计学习方法挖掘组学数据其实就是生物信息做的事情，所以machine learning某种程度上也是 basic skill! 这部分资料其实非常多，Google 
 随便搜索一下就能找到很多，下面简单的罗列一下我知道的，或者我看过觉得不错的的资料。
