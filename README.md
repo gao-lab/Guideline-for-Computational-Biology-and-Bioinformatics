@@ -38,7 +38,7 @@ Basic 的 Python ，只需要掌握基本的语法，以及常见的 package 比
 * [Python 100 days](https://github.com/jackfrued/Python-100-Days) 已经是很完整的 Python 的资料了，包括的内容非常多，basic 的话不需要全部掌握。
 
 ### <span id="head5"> R</span>
-* [R for beginners]((https://github.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/R-for-beginners.pdf))
+* [R for beginners](http://ape-package.ird.fr/ep/R4beg_cn_2.0.pdf)
 适合初学者入门。
 ### <span id="head6"> Writing</span>
 
@@ -70,16 +70,16 @@ Advanced skill 是在 Basic skill 的基础上的进阶，包括机器学习，�
     * [**machine-learning-notes**](https://github.com/roboticcam/machine-learning-notes) 只要是里面有视频的部分讲的都非常清楚(Variational 
 Inference, MC等)！而且中文格外亲切。
 * Book
-    * Pattern recognition and machine learning[(PRML)](https://github.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/PRML.pdf)
+    * Pattern recognition and machine learning[(PRML)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwjQvt-LutXkAhXQxosBHUxaAcAQFjAAegQIAxAC&url=http%3A%2F%2Fusers.isr.ist.utl.pt%2F~wurmd%2FLivros%2Fschool%2FBishop%2520-%2520Pattern%2520Recognition%2520And%2520Machine%2520Learning%2520-%2520Springer%2520%25202006.pdf&usg=AOvVaw2j0fMGPbFfpcwGzqELtiRU)
 
 ### <span id="head10">Statistical Learning </span>
 统计学习和机器学习其实没什么区别吧，因为毕竟有"统计"两个字,所以看起来更加令人信服！
 
  
-* 李航的[统计学习](https://github.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/统计学习方法_李航.pdf)，短小精悍！建议专心读几天，一口气读完。
+* 李航的[统计学习](https://book.douban.com/subject/33437381/)，短小精悍！建议专心读几天，一口气读完。
 * [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/rmcelreath/statrethinking_winter2019)这其中包括 slides, videos, homework(solution)。
 * [Introduction to Statistical Learning with R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) 这本比较简单，也有中文翻译版本，也是某种意义上李程老师的基因组数据分析所用的教材。
-* [The Element of Statistical Learning](https://github.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/ESL.pdf) 这本书比 ISL 更难，有更多的数学，而且中文版感觉翻译的不是很好，另外也是林伟老师的统计学习的教材.
+* [The Element of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) 这本书比 ISL 更难，有更多的数学，而且中文版感觉翻译的不是很好，另外也是林伟老师的统计学习的教材.
 
 
 ### <span id="head11">Deep Learning</span>
@@ -95,11 +95,11 @@ Inference, MC等)！而且中文格外亲切。
 ### <span id="head12"> Bayes</span>
 贝叶斯学派和频率学派的本质区别就是认为 parameter 没有确定的值，有的是分布。
 
-* [Bayesian Data Analysis](https://github.com/Gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/BDA.pdf)
+* [Bayesian Data Analysis](https://www.amazon.com.au/Bayesian-Analysis-Chapman-Statistical-Science-ebook/dp/B00I60M6H6)
 这本书内容比较多，是席瑞斌老师的贝叶斯的参考书。
 * [Awesome Bayes](https://github.com/dimenwarper/awesome-bayes) 里面包括非常多的关于贝叶斯的资源
 * [Think 系列](https://greenteapress.com/wp/) 中的
-[Think Bayes](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/Think-python.pdf) 
+[Think Bayes](https://greenteapress.com/wp/think-bayes/) 
 
 ### <span id="head13">Reinforce Learning</span>
 * [Stanford Reinforce Learning](http://web.stanford.edu/class/cs234/index.html)
