@@ -36,7 +36,7 @@ Ps. 对于一开始进组开始 intern 的同学建议全部掌握 Basic skills 
 Basic 的 Python ，只需要掌握基本的语法，以及常见的 package 比如 numpy, pandas 的基础用法即可。
 * [Basic Python](https://www.learnpython.org) 中文版本 [[link]](http://www.runoob.com/python/python-tutorial.html)
 * [Python 100 days](https://github.com/jackfrued/Python-100-Days) 已经是很完整的 Python 的资料了，包括的内容非常多，basic 的话不需要全部掌握。
-
+* [Think python](https://greenteapress.com/wp/think-python-2e/)，另外也有中文版，自行搜索就能找到。
 ### <span id="head5"> R</span>
 * [R for beginners](http://ape-package.ird.fr/ep/R4beg_cn_2.0.pdf)
 适合初学者入门。
@@ -132,10 +132,10 @@ biology 的一些topic。
     * 生物信息学方法
     
 ## <span id="head16">Related links</span>
-* [selection of books/urls for bioinformatics/data science curriculum](https://divingintogeneticsandgenomics.rbind.io/post/my-opinionated-selection-of-books-for-bioinformatics-data-science-curriculum/) Provided by Ming Tang
+* [selection of books/urls for bioinformatics/data science curriculum](https://divingintogeneticsandgenomics.rbind.io/post/my-opinionated-selection-of-books-for-bioinformatics-data-science-curriculum/) by Ming Tang
 * [A New Online Computational Biology Curriculum](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003662) 
 
-### <span id="head17"> People</span>
+## <span id="head17"> People</span>
 * [屠鑫明](https://xinmingtu.cn)
 * 陈子玉 
 * 曹智杰
