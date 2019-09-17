@@ -14,7 +14,7 @@
 	- [Bioinformatics Analysis](#head14)
 	- [Some Courses ](#head15)
 	- [Related links](#head16)
-		- [ People](#head17)
+	- [ People](#head17)
 # <span id="head1"> Guideline-for-Computational-Biology-and-Bioinformatics</span>
 
 
