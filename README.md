@@ -40,6 +40,7 @@ Basic 的 Python ，只需要掌握基本的语法，以及常见的 package 比
 ### <span id="head5"> R</span>
 * [R for beginners](http://ape-package.ird.fr/ep/R4beg_cn_2.0.pdf)
 适合初学者入门。
+
 ### <span id="head6"> Writing</span>
 
 * Markdown/Rmarkdown
@@ -75,7 +76,7 @@ Inference, MC等)！而且中文格外亲切。
 ### <span id="head10">Statistical Learning </span>
 统计学习和机器学习其实没什么区别吧，因为毕竟有"统计"两个字,所以看起来更加令人信服！
 
- 
+
 * 李航的[统计学习](https://book.douban.com/subject/33437381/)，短小精悍！建议专心读几天，一口气读完。
 * [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/rmcelreath/statrethinking_winter2019)这其中包括 slides, videos, homework(solution)。
 * [Introduction to Statistical Learning with R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) 这本比较简单，也有中文翻译版本，也是某种意义上李程老师的基因组数据分析所用的教材。
@@ -134,6 +135,8 @@ biology 的一些topic。
 ## <span id="head16">Related links</span>
 * [selection of books/urls for bioinformatics/data science curriculum](https://divingintogeneticsandgenomics.rbind.io/post/my-opinionated-selection-of-books-for-bioinformatics-data-science-curriculum/) by Ming Tang
 * [A New Online Computational Biology Curriculum](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003662) 
+* [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
+* [Awesome-Bio-ML-PKU](https://github.com/XinmingTu/Awesome-Bio-ML-PKU)
 
 ## <span id="head17"> People</span>
 * [屠鑫明](https://xinmingtu.cn)
