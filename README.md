@@ -118,6 +118,7 @@ Inference, MC等)！而且中文格外亲切。
     * [awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
 * Others
     * [awesome multi omics](https://github.com/mikelove/awesome-multi-omics)
+    * A great repo about [ChIP-seq-analysis](https://github.com/crazyhottommy/ChIP-seq-analysis#new-singlefew-cell-epigenomics) by Ming Tang
 ## <span id="head15">Some Courses </span>
 
 * Computational Biology Courses
