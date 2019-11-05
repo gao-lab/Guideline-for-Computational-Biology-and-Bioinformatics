@@ -1,6 +1,7 @@
 
 # <span id="head1"> Guideline-for-Computational-Biology-and-Bioinformatics</span>
-
+![avatar](https://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=10.1371/journal.pcbi.1003496.g001)
+Fig from [Bioinformatics Curriculum Guidelines: Toward a Definition of Core Competencies, 2014, Plos Compbio](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003496)  
 
 **目的**: 在原来的 [GCCS2019](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/190317-guideline_for_common_computational_skills.pdf) 基础上对组内培养方案更具体的完善，大概会包括如何达到 GCCS2019 中的要求中的basic，advanced skills。
 
@@ -25,6 +26,7 @@ Ps. 对于一开始进组开始 intern 的同学建议全部掌握 Basic skills 
 	- [Related links](#head16)
 	- [ People](#head17)
 	
+
 
 ## <span id="head2">Basic Skills</span>
 
@@ -139,6 +141,7 @@ biology 的一些topic。
     
 ## <span id="head16">Related links</span>
 * [selection of books/urls for bioinformatics/data science curriculum](https://divingintogeneticsandgenomics.rbind.io/post/my-opinionated-selection-of-books-for-bioinformatics-data-science-curriculum/) by Ming Tang
+* [Bioinformatics Curriculum Guidelines: Toward a Definition of Core Competencies](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003496)  
 * [A New Online Computational Biology Curriculum](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003662) 
 * [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
 * [Awesome-Bio-ML-PKU](https://github.com/XinmingTu/Awesome-Bio-ML-PKU)
