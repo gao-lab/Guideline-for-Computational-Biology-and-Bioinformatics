@@ -43,6 +43,7 @@ Basic 的 Python ，只需要掌握基本的语法，以及常见的 package 比
 * [Basic Python](https://www.learnpython.org) 中文版本 [[link]](http://www.runoob.com/python/python-tutorial.html)
 * [Python 100 days](https://github.com/jackfrued/Python-100-Days) 已经是很完整的 Python 的资料了，包括的内容非常多，basic 的话不需要全部掌握。
 * [Think python](https://greenteapress.com/wp/think-python-2e/)，另外也有中文版，自行搜索就能找到。
+* [Python 进阶](https://docs.pythontab.com/interpy/) 看起来很快，发现basic的不太够之后去看的 [original English version](https://book.pythontips.com/en/latest/index.html)
 ### <span id="head5"> R</span>
 * [R for beginners](http://ape-package.ird.fr/ep/R4beg_cn_2.0.pdf)
 适合初学者入门。
