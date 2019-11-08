@@ -94,7 +94,7 @@ Inference, MC等)！而且中文格外亲切。
 
 * Coursera 上面的 [Deep Learning](https://www.coursera.org/specializations/deep-learning), Andrew Ng 讲的还是非常好的，另外 
 [bilibili](https://www.bilibili.com/video/av49445369?from=search&seid=853459819773787018) 上也有搬运的。另外网易云上应该也有。
-* 李沐的[动手学深度学习](https://zh.gluon.ai),框架使用的是MXNET，所以可能这部分借鉴意义不大，但是本身来说写的还是不错的，比那本非常有名的 deep learning 更适合学习。
+* 李沐的[动手学深度学习](https://zh.gluon.ai),框架使用的是MXNET，所以可能这部分借鉴意义不大，但是本身来说写的还是不错的，比那本非常有名的 deep learning 更适合学习。[Pytorch version](https://tangshusen.me/Dive-into-DL-PyTorch/#/) 毕竟Pytorch 还是比 MXNET 要更流行一些,建议直接看pytorch 版）
 * [Solution of Deep-Learning-Coursera](https://github.com/DeepakSridhar/Deep-Learning-Coursera)
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) Deep learning 
 中经典的论文
