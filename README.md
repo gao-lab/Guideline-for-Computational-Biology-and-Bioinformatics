@@ -8,23 +8,23 @@ Fig from [Bioinformatics Curriculum Guidelines: Toward a Definition of Core Comp
 Ps. 对于一开始进组开始 intern 的同学建议全部掌握 Basic skills 且最好掌握部分 Advanced skills，basic skills 是能开始工作的基础，Advanced skills 是能做出原创性工作的前提。
 
 ## Table of contents
-- [ Guideline-for-Computational-Biology-and-Bioinformatics](#head1)
+- [Guideline-for-Computational-Biology-and-Bioinformatics](#head1)
 	- [Basic Skills](#head2)
 		- [Linux Foundation](#head3)
-		- [ Python](#head4)
-		- [ R](#head5)
-		- [ Writing](#head6)
+		- [Python](#head4)
+		- [R](#head5)
+		- [Writing](#head6)
 		- [Basic Math](#head7)
 	- [Advanced skill](#head8)
 		- [Machine Learning](#head9)
 		- [Statistical Learning ](#head10)
 		- [Deep Learning](#head11)
-		- [ Bayes](#head12)
+		- [Bayes](#head12)
 		- [Reinforce Learning](#head13)
 	- [Bioinformatics Analysis](#head14)
 	- [Some Courses ](#head15)
 	- [Related links](#head16)
-	- [ People](#head17)
+	- [People](#head17)
 	
 
 
@@ -128,6 +128,7 @@ Inference, MC等)！而且中文格外亲切。
     * [MIT Foundations of computational and systems biology](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/)
     * [stanford Computational Biology in Four Dimensions](https://cs371.stanford.edu/index.html) Computational 
 biology 的一些topic。
+    * MIT Machine learning in Genomics [Homepage](https://stellar.mit.edu/S/course/6/fa19/6.047/materials.html), [Lecture](https://www.youtube.com/playlist?list=PLypiXJdtIca6U5uQOCHjP9Op3gpa177fK) 
 * Courses at Peking University
     * [北京大学基因组学、生物信息学课程](http://bioinfocore.cbi.pku.edu.cn/forum/upload/forum.php?mod=viewthread&tid=325&extra=page%3D1)  by 李程老师
     * 基因组生物学技术 
