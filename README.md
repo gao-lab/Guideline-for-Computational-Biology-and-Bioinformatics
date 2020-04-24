@@ -1,30 +1,32 @@
 
 # <span id="head1"> Guideline-for-Computational-Biology-and-Bioinformatics</span>
-
+![avatar](https://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=10.1371/journal.pcbi.1003496.g001)
+Fig from [Bioinformatics Curriculum Guidelines: Toward a Definition of Core Competencies, 2014, Plos Compbio](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003496)  
 
 **目的**: 在原来的 [GCCS2019](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics/blob/master/pdf/190317-guideline_for_common_computational_skills.pdf) 基础上对组内培养方案更具体的完善，大概会包括如何达到 GCCS2019 中的要求中的basic，advanced skills。
 
 Ps. 对于一开始进组开始 intern 的同学建议全部掌握 Basic skills 且最好掌握部分 Advanced skills，basic skills 是能开始工作的基础，Advanced skills 是能做出原创性工作的前提。
 
 ## Table of contents
-- [ Guideline-for-Computational-Biology-and-Bioinformatics](#head1)
+- [Guideline-for-Computational-Biology-and-Bioinformatics](#head1)
 	- [Basic Skills](#head2)
 		- [Linux Foundation](#head3)
-		- [ Python](#head4)
-		- [ R](#head5)
-		- [ Writing](#head6)
+		- [Python](#head4)
+		- [R](#head5)
+		- [Writing](#head6)
 		- [Basic Math](#head7)
 	- [Advanced skill](#head8)
 		- [Machine Learning](#head9)
 		- [Statistical Learning ](#head10)
 		- [Deep Learning](#head11)
-		- [ Bayes](#head12)
+		- [Bayes](#head12)
 		- [Reinforce Learning](#head13)
 	- [Bioinformatics Analysis](#head14)
 	- [Some Courses ](#head15)
 	- [Related links](#head16)
-	- [ People](#head17)
+	- [People](#head17)
 	
+
 
 ## <span id="head2">Basic Skills</span>
 
@@ -41,6 +43,7 @@ Basic 的 Python ，只需要掌握基本的语法，以及常见的 package 比
 * [Basic Python](https://www.learnpython.org) 中文版本 [[link]](http://www.runoob.com/python/python-tutorial.html)
 * [Python 100 days](https://github.com/jackfrued/Python-100-Days) 已经是很完整的 Python 的资料了，包括的内容非常多，basic 的话不需要全部掌握。
 * [Think python](https://greenteapress.com/wp/think-python-2e/)，另外也有中文版，自行搜索就能找到。
+* [Python 进阶](https://docs.pythontab.com/interpy/) 看起来很快，发现basic的不太够之后去看的 [original English version](https://book.pythontips.com/en/latest/index.html)
 ### <span id="head5"> R</span>
 * [R for beginners](http://ape-package.ird.fr/ep/R4beg_cn_2.0.pdf)
 适合初学者入门。
@@ -91,7 +94,7 @@ Inference, MC等)！而且中文格外亲切。
 
 * Coursera 上面的 [Deep Learning](https://www.coursera.org/specializations/deep-learning), Andrew Ng 讲的还是非常好的，另外 
 [bilibili](https://www.bilibili.com/video/av49445369?from=search&seid=853459819773787018) 上也有搬运的。另外网易云上应该也有。
-* 李沐的[动手学深度学习](https://zh.gluon.ai),框架使用的是MXNET，所以可能这部分借鉴意义不大，但是本身来说写的还是不错的，比那本非常有名的 deep learning 更适合学习。
+* 李沐的[动手学深度学习](https://zh.gluon.ai),框架使用的是MXNET，所以可能这部分借鉴意义不大，但是本身来说写的还是不错的，比那本非常有名的 deep learning 更适合学习。[Pytorch version](https://tangshusen.me/Dive-into-DL-PyTorch/#/) 毕竟Pytorch 还是比 MXNET 要更流行一些,建议直接看pytorch 版）
 * [Solution of Deep-Learning-Coursera](https://github.com/DeepakSridhar/Deep-Learning-Coursera)
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) Deep learning 
 中经典的论文
@@ -127,7 +130,11 @@ Inference, MC等)！而且中文格外亲切。
     * [MIT Foundations of computational and systems biology](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/)
     * [stanford Computational Biology in Four Dimensions](https://cs371.stanford.edu/index.html) Computational 
 biology 的一些topic。
+<<<<<<< HEAD
     
+=======
+    * MIT Machine learning in Genomics [Homepage](https://stellar.mit.edu/S/course/6/fa19/6.047/materials.html), [Lecture](https://www.youtube.com/playlist?list=PLypiXJdtIca6U5uQOCHjP9Op3gpa177fK) 
+>>>>>>> 4e490c53f76eb830251379d1771b06462923aa78
 * Courses at Peking University
     * [北京大学基因组学、生物信息学课程](http://bioinfocore.cbi.pku.edu.cn/forum/upload/forum.php?mod=viewthread&tid=325&extra=page%3D1)  by 李程老师
     * 基因组生物学技术 
@@ -142,6 +149,7 @@ biology 的一些topic。
     
 ## <span id="head16">Related links</span>
 * [selection of books/urls for bioinformatics/data science curriculum](https://divingintogeneticsandgenomics.rbind.io/post/my-opinionated-selection-of-books-for-bioinformatics-data-science-curriculum/) by Ming Tang
+* [Bioinformatics Curriculum Guidelines: Toward a Definition of Core Competencies](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003496)  
 * [A New Online Computational Biology Curriculum](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003662) 
 * [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
 * [Awesome-Bio-ML-PKU](https://github.com/XinmingTu/Awesome-Bio-ML-PKU)
