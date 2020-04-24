@@ -81,7 +81,7 @@ Inference, MC等)！而且中文格外亲切。
     * Pattern recognition and machine learning[(PRML)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwjQvt-LutXkAhXQxosBHUxaAcAQFjAAegQIAxAC&url=http%3A%2F%2Fusers.isr.ist.utl.pt%2F~wurmd%2FLivros%2Fschool%2FBishop%2520-%2520Pattern%2520Recognition%2520And%2520Machine%2520Learning%2520-%2520Springer%2520%25202006.pdf&usg=AOvVaw2j0fMGPbFfpcwGzqELtiRU)
 
 ### <span id="head10">Statistical Learning </span>
-统计学习和机器学习其实没什么区别吧，因为毕竟有"统计"两个字,所以看起来更加令人信服！
+统计学习和机器学习其实没什么区别吧.
 
 
 * 李航的[统计学习](https://book.douban.com/subject/33437381/)，短小精悍！建议专心读几天，一口气读完。
@@ -143,7 +143,8 @@ biology 的一些topic。
     * 生物数学物理
     * 统计学习
     * 生物数学建模
-    * 生物信息学方法
+    * [生物信息学方法](http://www.chinesemooc.org/mooc/4393)
+    * [生物统计](http://www.chinesemooc.org/mooc/4979)
     
 ## <span id="head16">Related links</span>
 * [selection of books/urls for bioinformatics/data science curriculum](https://divingintogeneticsandgenomics.rbind.io/post/my-opinionated-selection-of-books-for-bioinformatics-data-science-curriculum/) by Ming Tang
