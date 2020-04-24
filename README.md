@@ -122,9 +122,12 @@ Inference, MC等)！而且中文格外亲切。
 ## <span id="head15">Some Courses </span>
 
 * Computational Biology Courses
+    * [MIT Deep Learning in Genomics](https://mit6874.github.io/) 最新的MOOC！，B站上也有搬运，强推，非常广，虽然我觉得这个deep learning 改成 machine learning比较好。
+    * [MIT Computational Biology: Genomes, Networks, Evolution, Health](https://stellar.mit.edu/S/course/6/fa19/6.047/materials.html)  Manolis Kellis 19年的课，其实感觉和上面的2020fall的比较像，可以互补着看。
     * [MIT Foundations of computational and systems biology](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/)
     * [stanford Computational Biology in Four Dimensions](https://cs371.stanford.edu/index.html) Computational 
 biology 的一些topic。
+    
 * Courses at Peking University
     * [北京大学基因组学、生物信息学课程](http://bioinfocore.cbi.pku.edu.cn/forum/upload/forum.php?mod=viewthread&tid=325&extra=page%3D1)  by 李程老师
     * 基因组生物学技术 
