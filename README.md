@@ -134,7 +134,7 @@ Inference, MC等)！而且中文格外亲切。
 biology 的一些topic。
     
 * Courses at Peking University
-    * [北京大学基因组学、生物信息学课程](http://bioinfocore.cbi.pku.edu.cn/forum/upload/forum.php?mod=viewthread&tid=325&extra=page%3D1)  by 李程老师
+    * [北京大学基因组学、生物信息学课程](http://3d-genome.life/?page_id=7)  by 李程老师
     * 基因组生物学技术 
     * 贝叶斯理论与算法
     * 深度学习：算法与应用
